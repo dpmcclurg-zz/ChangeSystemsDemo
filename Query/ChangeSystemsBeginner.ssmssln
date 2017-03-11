@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 13.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ChangeTracking", "ChangeTracking\ChangeTracking.ssmssqlproj", "{67A48D65-E8D2-4585-8A2D-2BCE952955D9}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Temporal", "Temporal\Temporal.ssmssqlproj", "{7A5DA0A2-8E19-4CEB-B4CC-339C36D4EE96}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Triggers", "Triggers\Triggers.ssmssqlproj", "{A125B9AE-2A0B-4816-A8C7-1ACDA8FCBD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A48D65-E8D2-4585-8A2D-2BCE952955D9}.Default|Default.ActiveCfg = Default
+		{7A5DA0A2-8E19-4CEB-B4CC-339C36D4EE96}.Default|Default.ActiveCfg = Default
+		{A125B9AE-2A0B-4816-A8C7-1ACDA8FCBD22}.Default|Default.ActiveCfg = Default
+		{0C28A9EB-7697-46EE-835E-F41619FF5B04}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
